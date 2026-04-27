@@ -41,6 +41,14 @@ Tools: Excel, Pivot Tables
 - Compared sales reps performance
 - Cleaned data (removed blanks)
 
+# Source Data Checklist
+- Rename column headers
+- Remove blank rows
+- Remove blank columns
+- Convert data fields to dates
+- Convert value fields to numbers
+- No blank cells in date columns
+
 # Key Findings
 - Revenue peaks in June and December
 - Top 3 salespeople contribute majority of revenue
